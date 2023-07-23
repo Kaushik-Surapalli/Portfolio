@@ -6,8 +6,12 @@
     background-size: cover;
 }
 .second {
-    color: crimson;
-    border: 10px solid;
-    border-color: bisque;
-   
+    color: rgb(20, 220, 63);
+   /* border-color: bisque; */
+    background-color: black;
+
+}
+.third{
+    color: white;
+    background-color: black;
 }
