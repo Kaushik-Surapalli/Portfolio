@@ -67,3 +67,36 @@
 .yes9:hover{
     background: blue;
 }
+
+.no{
+    color: blue;
+}
+.yes2{
+    padding-left: 200px;
+}
+
+.yes4{
+    background-color: red;
+    border: 2px solid;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.yes4:hover{
+    background: #4CAF50;
+}
+
+.yes3{
+    border: 0;
+    padding: 20px 30px 10px;
+    height: 60px;
+    width: 50%;
+    background: none;
+}
+
+.page{
+    background-image: url(https://shorturl.at/lsFP8);
+}
