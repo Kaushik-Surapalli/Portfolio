@@ -1,9 +1,17 @@
+.oh{
+    background-color: black;
+}
 .first {
-    border: 8px solid;
+   /* border: 8px solid;
     border-color: blue ;
     background-image: url("https://shorturl.at/chPWY");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
+    background-color: black;
+}
+
+.first1{
+    color: white;
 }
 
 .class1{
@@ -31,7 +39,7 @@
 }
 
 .ok0{
-    background-color: aqua;
+    background-color: black;
 }
 .yes{
     align-items: center;
@@ -70,6 +78,8 @@
 
 .no{
     color: blue;
+    text-align: center;
+
 }
 .yes2{
     padding-left: 200px;
@@ -83,6 +93,7 @@
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
+
 }
 
 .yes4:hover{
@@ -102,4 +113,8 @@
 }
 .no3{
     text-decoration: none;
+}
+
+.hmm{
+    color: red;
 }
