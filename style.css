@@ -65,6 +65,7 @@
 .yes0{
     text-align: center;
     color: white;
+    font-style: normal;
 }
 
 .yes9{
@@ -90,8 +91,9 @@
     color: white;
 }
 .no{
-    color: blue;
+    color: chartreuse;
     text-align: center;
+
 
 }
 .yes2{
@@ -121,13 +123,15 @@
     background: none;
 }
 
+.no1{
+    text-decoration: none;
+}
 .no2{
     text-decoration: none;
 }
 .no3{
     text-decoration: none;
 }
-
 .hmm{
     color: red;
 }
