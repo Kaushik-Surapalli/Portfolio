@@ -82,12 +82,7 @@
 .yes9:hover{
     background: blue;
 }
-
-.oh1{
-    background-color: black;
-}
-
-.yes6{
+.yes5{
     color: white;
 }
 .no{
@@ -155,4 +150,11 @@
 }
 .oh7{
     color: blue;
+}
+.oh8{
+    color: lightgreen;
+}
+.oh9{
+    text-decoration: none;
+    color: yellow;
 }
