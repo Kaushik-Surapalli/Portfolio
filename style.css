@@ -17,7 +17,9 @@
 .first1{
     color: white;
 }
-
+.first2{
+    color: rgb(255, 0, 0);
+}
 .class1{
     background-color: black;
 }
@@ -162,14 +164,15 @@
     color: yellow;
 }
 
-.is0{
-    color: crimson;
-}
-
-.is1{
+.port0{
     background-color: black;
 }
-
-.is{
+.port1{
     color: white;
+}
+.port2{
+    color: crimson;
+}
+.port3{
+    text-decoration: none;
 }
