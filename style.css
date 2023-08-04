@@ -81,11 +81,11 @@
 
 }
 
+.check{
+    color: white;
+}
 .yes9:hover{
     background: blue;
-}
-.yes5{
-    color: white;
 }
 .no{
     color: chartreuse;
