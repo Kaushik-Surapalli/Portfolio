@@ -37,6 +37,10 @@
 
 .ok{
     background-color: black;
+    position: fixed;
+    top: 10;
+
+
 }
 
 .ok1{
@@ -44,12 +48,6 @@
     color: white;
     padding-inline-start: 20px;
 }
-
-#move{
-    align-content: center;
-    align-items: end;
-}
-
 .ok0{
     background-color: black;
 }
