@@ -31,14 +31,17 @@
 
 }
 .third{
-    color: white;
-    background-color: black;
+    color: blueviolet;
+    background-color: lightpink;
+    padding: 13px;
+    margin: 15px;
+    border: 10px solid brown;
 }
-
 .ok{
     background-color: black;
     position: fixed;
-    top: 10;
+    top: 0;
+    padding: 1%;
 }
 
 .ok1{
@@ -190,4 +193,8 @@
 
 #para{
     color: blue;
+    background-color: lightgrey;
+    padding: 13px;
+    margin: 20px;
+    border: 10px solid red;
 }
