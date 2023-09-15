@@ -32,13 +32,13 @@
 }
 .third{
     color: blueviolet;
-    background-color: lightpink;
+    /*background-color: lightpink;
     padding: 13px;
     margin: 15px;
-    border: 10px solid brown;
+    border: 10px solid brown;*/
 }
 .ok{
-    background-color: black;
+    background-color: #B3c100;
     position: fixed;
     top: 0;
     padding: 1%;
@@ -193,8 +193,8 @@
 
 #para{
     color: blue;
-    background-color: lightgrey;
+    /*background-color: lightgrey;
     padding: 13px;
     margin: 20px;
-    border: 10px solid red;
+    border: 10px solid red;*/
 }
